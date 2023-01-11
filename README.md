@@ -16,5 +16,10 @@ The Front panel is composed of the following files:
 
 In my original design, the front panel has been made using [PCBWay](https://www.pcbway.com) Sheet Metal Fabrication service. I chose bead-blasted black anodized aluminum with custom laser engraving.
 
-
 ### 3D printed parts
+
+3 parts of the MIDI-tape are 3D printed:
+- Neopixel holder.3mf : a single neopixel pcb holder
+- PCB_Holder.3mf : a frame to holde the main pcb
+- PotDiameterAdapter.3mf : a little diameter adapter for the potentiometer shaft
+- Contour.3mf : the main 3d printed part  that will hold 
